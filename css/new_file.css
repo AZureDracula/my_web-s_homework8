@@ -1,0 +1,25 @@
+#tr0{
+	background-color: blue;
+	color: white;
+	font-weight: 700;
+}
+tr{
+	text-align: center;
+	
+}
+td{
+	text-align: center;
+}
+.dellet{
+	color: dodgerblue;
+}
+.trtr1{
+	background-color: skyblue;
+	
+}
+.trtr2{
+	background-color:   lightsteelblue;
+}
+.dellet{
+	cursor: pointer;
+}
