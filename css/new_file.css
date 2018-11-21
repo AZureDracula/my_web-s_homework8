@@ -23,3 +23,6 @@ td{
 .dellet{
 	cursor: pointer;
 }
+.name:hover{
+	color: red;
+}
